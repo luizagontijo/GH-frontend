@@ -1,0 +1,32 @@
+.dashTres{
+    width: 32%;
+    background-color: #DEB841; 
+}
+.dashDois{
+    width: 49%;
+    background-color: rgb(255, 255, 255);
+}
+
+.dashTres{
+    text-decoration: none;
+    color: #37323E;
+}
+
+.dashTres:hover{
+    background-color: #37323E;
+    color: white;
+    width: 34%;
+    transition: all 0.4s ease-in;
+}
+
+.icon:hover { color:white}
+
+.dashLinha{
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.dashLinha h5{
+    color:#37323E;
+    text-align: center;
+}

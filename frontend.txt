@@ -1,0 +1,20 @@
+entra na pasta frontend pelo prompt
+
+instalar dependências
+
+yarn add axios
+yarn add bootstrap
+yarn add moment
+yarn add react-router-dom
+
+
+yarn start
+
+
+pra funcionar tem que estar rodando um prompt com o "node index.jx" (dentro da pasta backend) e o "yarn start" (dentro da pasta frontend)
+
+
+Marta:
+yarn add react-lottie no prompt do front
+yarn add react-loading
+yarn add react-icons
